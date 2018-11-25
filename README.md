@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ThinkPHP 5.0
 ===============
 
@@ -128,4 +129,6 @@ ThinkPHP® 商标和著作权所有者为上海顶想信息科技有限公司。
 
 更多细节参阅 [LICENSE.txt](LICENSE.txt)
 # wx_weather
+=======
+>>>>>>> 778ef98d8ae664665db9369c5667b36da16e0e4e
 # wx_weather
